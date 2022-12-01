@@ -1,0 +1,237 @@
+text{
+    font-weight: bold;
+}
+.index-area-of-area{
+    margin-left: 10px;
+}
+.index-area-of-test-flashcard{
+    padding-top: 5px;
+    height: 30px;
+    color: #0000004f;
+    background-color: white;
+    width: 100%;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    box-shadow: 0px 0px 2px 0px rgba(5, 5, 5, 0.1);    
+}
+.padbor-div-to-flex{
+    display: flex;
+}
+.main-area-for-all-mini-testing{
+    color: #303b50;
+    background-color: white;
+    margin-top: 2px;
+    min-height: 130px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+.line-for-area-breaker{
+    margin-left: 3px;
+    margin-right: 3px;
+    width: 1px;
+    border-radius: 100%;
+    background-color: #edeff4;
+    height: 100px;
+}
+.area-for-testing-things{
+    padding-top: 8px;
+    display: flex;
+}
+.horizontal-line{
+    border-radius: 100%;
+    height: 1px;
+    background-color:#edeff4;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-bottom: 10px;
+}
+.first-area-of-testing-or-term{
+    text-align-last: center;
+    align-self: center;
+    width: 50%;
+}
+.group1-test-podbor{
+    text-align-last: center;
+    display: block;
+    position: relative;
+    width: 46%;
+    margin-left: 2%;
+    margin-right: 2%;
+}
+.group2-test-podbor{
+    text-align-last: center;
+    display: block;
+    position: relative;
+    width: 46%;
+    margin-right: 2%;
+    margin-left: 2%;
+}
+.tests-8-fragments{
+    width: 100%;
+    cursor: pointer;
+    margin-bottom: 5px;
+    border-radius: 4px;
+    border: 2px solid #edeff4;
+    top: 50%;
+}
+.first-area-of-testing-or-term{
+    text-align-last: center;
+    align-self: center;
+}
+.second-word-of-testing-or-def{
+    text-align-last: center;
+    align-self: center;
+    width: 50%;
+}
+.test-area-module-things{
+    margin-bottom: 20px;
+    margin-top: 10px;
+    border: 0.5px rgba(14, 12, 12, 0.137) solid;
+    border-radius: 5px;
+    
+}
+
+.area-for-answers-1{
+    text-align: center;
+    padding-bottom: 5px;
+    display: flex;
+    width: 96%;
+    justify-content: space-between;
+    margin-left: 2%;
+    margin-right: 2%;
+}
+.div-for-test-podbor{
+    cursor: pointer;
+    border-radius: 5px;
+    border: 1px solid #edeff4;
+    width: 24%;
+}
+.test-abc-random-fix{
+    cursor: pointer;
+    margin-bottom: 5px;
+    border-radius: 5px;
+    border: 1px solid #edeff4;
+}
+.area-for-answers-2{
+    width: 86%;
+    justify-content: space-between;
+    margin-left: 7%;
+    margin-right: 7%;
+    display: flex;
+}
+.div-for-display-block{
+    width: 41%;
+}
+.input-in-test-just-use{
+    margin-bottom: 10px;
+    width: 70%;
+    height: 30px;
+    margin-left: 15%;
+    border: none;
+    background-color: #f6f7f6;
+    outline: none;
+    border-bottom: 3px solid rgba(79, 79, 80, 0.692);
+    border-radius: 5px;
+}
+.test-tru-false-tut{
+    width: 30%;
+    margin-bottom: 5px;
+    border-radius: 5px;
+    border: 1px solid #edeff4;
+    cursor: pointer;
+}
+.area-for-answers-3{
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    margin-left: 15%;
+    margin-right: 15%;
+    
+}
+.blue_line{
+    border: 1px rgb(146, 146, 248) solid;
+    background-color: rgba(119, 119, 247, 0.288);
+}
+.image-input{
+
+    width: 30px;
+    height: auto;
+}
+.close{
+    background-image: url(./delete-module-1.png);
+    background-size: cover;
+    cursor: pointer;
+}
+.active{
+    border: 2px solid rgba(0, 0, 255, 0.548);
+    background-color: rgba(21, 21, 223, 0.253);
+}
+.active-false{
+    border: 2px solid rgba(202, 28, 28, 0.548);
+    background-color: rgba(126, 53, 62, 0.253);
+}
+.active-true{
+    border: 2px solid rgba(116, 230, 87, 0.548);
+    background-color: rgba(95, 167, 95, 0.253);
+}
+.active-omitted{
+    border: 2px solid rgba(21, 48, 70, 0.39)
+}
+.aralygyny-yap{
+    margin: 0;
+}
+.l1{
+    padding: 10.5px;
+}
+.l3{
+    text-decoration: line-through;
+    font-style: italic;
+}
+.l2{
+    margin: 0;
+}
+.flex-for-trueAnswer{
+    width: 100%;
+    display: block;
+}
+.flex-for-answers{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+.trueAnswer{
+    border: 2px solid rgba(116, 230, 87, 0.548);
+    background-color: rgba(95, 167, 95, 0.253);
+    margin-bottom: 10px;
+    border-radius: 5px;
+    
+}
+.area-for-testing-things img{
+    width: 100px;
+    height: auto;
+    margin: 1.5rem;
+}
+
+.answers-of-4-test{
+    margin-left: 15%;
+    padding-bottom: 10px;
+    background-color: white;
+}
+.true-answer-text{
+    margin-top: 10px;
+    color: #939bb4;
+    font-weight: 700;
+}
+.result-after-true-answer-text{
+    font-size: 14px;
+    padding: 1px;
+    padding-left: 5px;
+    border-radius: 5px;
+    width: 82%;
+    border: 2px solid rgba(116, 230, 87, 0.548);
+    background-color: rgba(95, 167, 95, 0.253);
+}
+/* responsive for test */
+@media only screen and (max-width: 750px){
+    
+}

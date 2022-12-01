@@ -1,0 +1,17 @@
+
+
+.brackets-list-1{
+    
+    margin-top: 1%;
+}
+.know-word{
+        font-size: 25px;
+        margin-left: 15px;
+        color: #23b26d;
+}
+@media only screen and (max-width:650px){
+    .know-word{
+        font-size: 24px;
+    }
+    
+}

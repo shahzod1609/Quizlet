@@ -1,0 +1,14 @@
+.profile{
+    margin: auto;
+    width: 50%;
+}
+@media only screen and (max-width:1500px){
+    .profile{
+        width: 70%;
+    }
+}
+@media only screen and (max-width:1050px){
+    .profile{
+        width: 95%;
+    }
+}

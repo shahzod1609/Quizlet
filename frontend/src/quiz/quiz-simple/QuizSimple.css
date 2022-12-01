@@ -1,0 +1,278 @@
+.quiz-simple{
+    margin-top: -13px;
+    width: 100%;
+    height: 100%;
+}
+.navbar-quiz-simple{
+    justify-content: center;
+    padding-top: 1px;
+    font-weight: 600;
+    color: #4255ff;
+    display: flex;
+    font-size: 20px;
+    width: 100%;
+    height: 45px;
+    background-color: white;
+    border-bottom: 1px solid #edeff4;
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;   
+    -khtml-user-select: none;    
+    -moz-user-select: none;      
+    -ms-user-select: none;       
+    user-select: none;  
+}
+.cross-icon-quiz{
+    position: absolute;
+    right: 15px;
+}
+.term-in-quiz{
+    margin-left: 43px;
+    font-size: 20px;
+    font-weight: 700;
+    color: #939bb4;
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;   
+    -khtml-user-select: none;    
+    -moz-user-select: none;      
+    -ms-user-select: none;       
+    user-select: none;  
+}
+.question-quiz{
+    color: #303b50;
+    font-weight: 400;
+    margin-left: 45px;
+    font-size: 25px;
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;   
+    -khtml-user-select: none;    
+    -moz-user-select: none;      
+    -ms-user-select: none;       
+    user-select: none;  
+}
+.answers-quize{
+    justify-content: center;
+    display: flex;
+   
+}
+.first-answers{
+    min-width: 30%;
+    max-width: 40%;
+    margin: auto;
+    margin-left: 10px;
+    width: max-content;
+}
+.second-answers{
+    margin: auto;
+    min-width: 30%;
+    max-width: 40%;
+    width: max-content;
+}
+.choose-true-answer{
+    font-size: 20px;
+    font-weight: 700;
+    color: #939bb4;
+    margin-top: 100px;
+    margin-left: 35px;
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;   
+    -khtml-user-select: none;    
+    -moz-user-select: none;      
+    -ms-user-select: none;       
+    user-select: none;  
+   
+}
+
+.true-answer-of-input{
+    margin-bottom: 10px;
+    font-size: 20px;
+    font-weight: 700;
+    color: #939bb4;
+    margin-top: 20px;
+    margin-left: 35px;
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;   
+    -khtml-user-select: none;    
+    -moz-user-select: none;      
+    -ms-user-select: none;       
+    user-select: none;  
+}
+.ans-1, .ans-2, .ans-3, .ans-4{
+    cursor: pointer;
+    background-color: white;
+    margin: 10px;
+    border: 2px solid #edeff4;
+    border-radius: 5px;
+    padding: 15px;
+    width: 100%;
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;   
+    -khtml-user-select: none;    
+    -moz-user-select: none;      
+    -ms-user-select: none;       
+    user-select: none;  
+}
+.input-quiz-1{
+    margin-top: 10px;
+    width: 90%;
+    height: 50px;
+    border-radius: 5px;
+    padding-left: 20px;
+    background-color: #f6f7f6;
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;   
+    -khtml-user-select: none;    
+    -moz-user-select: none;      
+    -ms-user-select: none;       
+    user-select: none;  
+}
+.input-quiz-2{
+    padding-top: 10px;
+    width: 90%;
+    margin-left: 5%;
+    height: 50px;
+    border-radius: 5px;
+    padding-left: 20px;
+    border: 2px solid rgb(29, 155, 29);
+    background-color: #00ff0057;
+}
+
+.false{
+    background-color: rgba(255, 0, 0, 0.144);
+    border: 2px solid red;
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;   
+    -khtml-user-select: none;    
+    -moz-user-select: none;      
+    -ms-user-select: none;       
+    user-select: none;  
+}
+
+
+.true{
+    background-color: rgba(0, 243, 0, 0.308);
+    border: 2px solid green;
+}
+
+.card-in-quiz-simple{
+    margin-top: 5%;
+    background-color: white;
+    margin-left: 30%;
+    margin-right: 30%;
+    border-radius: 10px;
+    padding-bottom: 50px;
+    padding-top: 50px;
+}
+.jogaby-send{
+    margin-left: 40px;
+    margin-top: 40px;
+    color: white;
+    font-weight: 600;
+    font-size: 15px;
+    border-radius: 10px;
+    padding: 10px;
+    border: none;
+    background-color: #4255ff;
+    margin-bottom: -100px;
+}
+.dowam-et-input{
+    font-size: 15px;
+    cursor: pointer;
+    color: white;
+    background-color: #4255ff;
+    margin-top: -10px;
+    border: none;
+    width: 120px;
+    padding: 15px;
+    position: absolute;
+    right: 20px;
+    border-radius: 10px;
+   
+}
+.bottom-bar-quiz-simple{
+    display: flex;
+    padding-top: 10px;
+    font-size: 20px;
+    color: #939bb4;
+    font-weight: 600;
+    background-color: white;
+    height: 70px;
+    position: absolute;
+    border-top: 1px solid #edeff4;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    width: 100%;
+    justify-content: space-between;
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;   
+    -khtml-user-select: none;    
+    -moz-user-select: none;      
+    -ms-user-select: none;       
+    user-select: none;  
+}
+.centrik-etmek-ucin{    
+    width: 40%;
+    justify-content: space-between;
+    margin: auto;
+    display: flex;
+}
+.button_next{
+    height: 35px;
+    width: 150px;
+    position: absolute;
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;   
+    -khtml-user-select: none;    
+    -moz-user-select: none;      
+    -ms-user-select: none;       
+    user-select: none;  
+}
+.image-for-inModule-get-to-the-quiz{
+    position: relative;
+    max-height: 150px;
+    max-width: 150px;
+    margin-right: 40px;
+    margin-right: 100px;
+}
+.question-and-image{
+    display: flex;
+    justify-content: space-between;
+}
+@media only screen and (max-width: 1560px){
+    .ans-1, .ans-2, .ans-3, .ans-4{
+        width: 100%;
+    }
+}
+@media only screen and (max-width: 1400px){
+    .bottom-bar-quiz-simple{
+        font-size: 15px;
+        display: block;
+    }
+    .card-in-quiz-simple{
+        width: 95%;
+        margin: auto;
+        margin-top: 5%;
+    }
+    
+}
+@media only screen and (max-width: 780px){
+    .image-for-inModule-get-to-the-quiz{
+        width: 75px;
+    }
+    .footer-lll{
+        margin-right: 50px;
+        display: none;
+    }
+    .image-for-inModule-get-to-the-quiz{
+        margin-top: 20px;
+    }
+}
+@media only screen and ( max-height:800px){
+    .choose-true-answer{
+        margin-top: 50px;
+    }
+    .card-in-quiz-simple{
+        padding-top: 10px;
+        padding-bottom: 15px;
+    }
+}

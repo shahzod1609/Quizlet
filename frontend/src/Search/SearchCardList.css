@@ -1,0 +1,22 @@
+.search-card-list{
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 20%;
+    width: auto;
+    height: 100%;
+}
+
+.search-ned{
+   margin-left: 21%; 
+   color: #1e6ace;
+}
+@media only screen and (max-width: 650px){
+    .search-ned{
+        font-size: 21px;
+    }
+    .search-card-list{
+        margin-left: 0;
+        max-width: 100%;
+        justify-content: center;
+    }
+}

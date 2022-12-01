@@ -1,0 +1,21 @@
+.card-list{
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 20%;
+    margin-right: 20%;
+    width: auto;
+    height: 100%;
+    
+    
+}
+.ned{
+    display: flex;
+   margin-left: 21%; 
+   color: #1e6ace;
+}
+@media only screen and (max-width:560px){
+    .card-list{
+        margin-left: 5%;
+        margin-right: 5%;
+    }
+}

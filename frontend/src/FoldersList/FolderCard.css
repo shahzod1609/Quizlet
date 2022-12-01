@@ -1,0 +1,75 @@
+.folder-card-1{
+    text-decoration: none;
+    border-radius: 2px;
+    width: 30%;
+    min-height: 100px;
+    background-color: rgb(255, 255, 255);
+    margin: 15px;
+    box-shadow: 1px 1px 7px 3px rgba(184, 184, 184, 0.26);
+    display: flex;
+
+}
+.folder-modul-name{
+    color: #1e6ace;
+    margin-top: 10px;
+    font-size: 18px;
+    font-weight: 1000;
+    margin-left: 20px;
+}
+.folder-descrip{
+    font-size: 15px;
+    margin-left: 20px;
+    font-weight: 1000;
+    color: #2f4d74bd;
+    margin-bottom: 10px;
+}
+.flex-for-papka-list{
+    display: flex;
+}
+
+@media only screen and (max-width: 1400px){
+    .folder-card-1{
+        width: 40%;
+    }
+}
+@media only screen and (max-width:920px){
+    .folder-card-1{
+        width: 90%;
+    }
+}
+.folder-icon-forCard{
+    background-image: url(./folder-icon-list.png);
+    background-size: cover;
+    width: 70px;
+    height: 70px;
+    margin-top: 15px;
+    margin-left: 10px;
+}
+.flex-for-btn-add{
+    display: flex;
+}
+
+.bukja-gos-div-in-modal{
+    color: #1e6ace;
+    font-weight: 700;
+    font-size: 20px;
+    margin-left: 2px;
+}
+.Modal-app-modal-flexing{
+    margin-top: 30px;
+    margin-left: 20px;
+}
+.Modal-Bukja-gos{
+    display: flex;
+}
+@media only screen and (max-width:1130px){
+    .folder-card-1{
+        display: block;
+    }
+
+}
+@media only screen and (max-width:470px){
+    .flex-for-btn-add{
+        display: block;
+    }
+}

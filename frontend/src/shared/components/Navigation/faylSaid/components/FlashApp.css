@@ -1,0 +1,31 @@
+.card{
+    display: flex;
+    justify-content: center;
+    border: .25rem;
+    box-shadow: 0 0 5px 2px rgba(0, 0, 0, .3);
+    align-items: center;
+    position: relative;
+    background-color: white;
+    transform-style: preserve-3d;
+    transition: 400ms;
+    cursor: pointer;
+    height: 150px;
+    width: 150px;
+    transform: perspective(2000px) rotateY(var(--rotate-y,0));
+}
+.card.flip{
+    --rotate-y: 180deg;
+}
+.card .front,
+.card .back{
+    position: absolute;
+    padding: 1rem;
+    backface-visibility: hidden;
+}
+.card .back{
+    transform: rotateY(180deg);
+}
+.card-group{
+    position: absolute;
+    left: 1.7%;
+}

@@ -1,0 +1,121 @@
+.card-1{
+    text-decoration: none;
+    border-radius: 2px;
+    width: 30%;
+    min-height: 130px;
+    background-color: rgb(255, 255, 255);
+    margin: 15px;
+    box-shadow: 1px 1px 7px 3px rgba(184, 184, 184, 0.26);
+}
+.modul-name{
+    width: max-content;
+    color: #1e6ace;
+    margin-top: 15px;
+    font-size: 18px;
+    font-weight: 1000;
+    margin-left: 10px;
+}
+.id-number{
+    font-size: 15px;
+    margin-left: 10px;
+    font-weight: 1000;
+    color: #2f4d74bd;
+}
+.username{
+    
+    display: flex;
+    text-decoration: none;
+    width: min-content;
+    color: #1e6ace;
+}
+.hatar-ucin-div{
+    display: block;
+}
+.username:hover{
+    transition: 200ms;
+    color: #ffcd1f;
+}
+.username-div{
+    width: min-content;
+    margin-top: 30px;
+    margin-left: 15px;
+    margin-bottom: 5px;
+}
+
+.sircle-icon-users{
+    margin-right: 5px;
+    border-radius: 100%;
+    width: 30px;
+    height: 30px;
+}
+
+.photo img{
+    margin: 30px;
+    width:70px;
+    height:60px;
+}
+.div-dlya-flex{
+    display: flex;
+    justify-content: space-between;
+}
+.statistic-for-main{
+    width: 100%;
+    display: flex;
+    text-decoration: none;
+    font-size: 10px;
+    text-align: center;
+}
+.green-area{
+
+    background-color: #d7ff98;
+}
+.gradient-green{
+    width: 2%;
+    background: linear-gradient(to right,#fdb816b0,#dbfca6 );
+}
+.yellow-area{
+    background-color: #fdb816b0;
+}
+.gradient-yellow{
+    width: 2%;
+    background: linear-gradient(to right,#e2e2e2,#fdb816b0);
+}
+.gray-area{
+    background-color: #e2e2e2;
+}
+.green-sircle-in-modal{
+    margin: 5px;
+    margin-top: 0;
+    width: 25px;
+    height: 25px;
+    border-radius: 100%;
+    background-color: #d7ff98;
+}.yellow-sircle-in-modal{
+    margin: 5px;
+    margin-top: 0;
+    width: 25px;
+    height: 25px;
+    border-radius: 100%;
+    background-color: #fdb816b0;
+}.grey-sircle-in-modal{
+    margin: 5px;
+    margin-top: 0;
+    width: 25px;
+    height: 25px;
+    border-radius: 100%;
+    background-color:#e2e2e2;
+}
+.div-for-sircle{
+    margin-top: 5px;
+    display: flex;
+}
+@media only screen and (max-width: 1400px){
+    .card-1{
+        width: 40%;
+    }
+}
+@media only screen and (max-width:920px){
+    .card-1{
+        width: 90%;
+    }
+}

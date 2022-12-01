@@ -1,0 +1,186 @@
+.icon-1{
+    margin-right: 5px;
+    width: 30px;
+    height: 30px;
+    background-image: url(./cards-12.png);
+    background-size: cover;
+}
+.icon-2{
+    margin-right: 5px;
+    width: 30px;
+    height: 30px;
+    background-image: url(./Learn.png);
+    background-size: cover;
+}
+.icon-3{
+    margin-right: 5px;
+    width: 30px;
+    height: 30px;
+    background-image: url(./test123.png);
+    background-size: cover;
+}
+.learn{
+    margin-top: 55px;
+}
+.div-nav-1:hover .icon-1{
+    width: 30px;
+    height: 30px;
+    background-image: url(./cards-1.png);
+    background-size: cover;
+}
+.div-nav-2:hover .icon-2{
+    width: 30px;
+    height: 30px;
+    background-image: url(./Learn-1.png);
+    background-size: cover;
+}
+.div-nav-3:hover .icon-3{
+    width: 30px;
+    height: 30px;
+    background-image: url(./test123-lite.png);
+    background-size: cover;
+}
+.div-nav-1{
+    
+    margin: auto;
+    margin-right: 20px;
+    margin-top: 12px;
+    border-radius: 5px;
+    box-shadow: 0 0 5px 2px rgba(0, 0, 0, .3);
+    background-color: white;
+    width: 200px;
+    display: flex;
+    padding: 10px;
+    padding-bottom: 0px;
+}
+.div-nav-2{
+    margin-top: 4px;
+    border-radius: 5px;
+    border: 5px;
+    box-shadow: 0 0 5px 2px rgba(0, 0, 0, .3);
+    background-color: white;
+    width: 200px;
+    display: flex;
+    padding: 10px;
+}
+.div-nav-3{
+    margin-top: 4px;
+    border-radius: 5px;
+    border: 5px;
+    box-shadow: 0 0 5px 2px rgba(0, 0, 0, .3);
+    background-color: white;
+    width: 200px;
+    display: flex;
+    padding: 10px;
+    padding-bottom: 0px;
+}
+.block-outline{
+    color: rgb(27, 27, 27);
+    display: block;
+}
+.div-nav-1:hover{
+    color: white;
+    background-color: rgb(83, 143, 221);
+    border-radius: 3px;
+    padding: 10px;
+    padding-bottom: 0px;
+}
+.div-nav-2:hover{
+    color: white;
+    background-color: rgb(83, 143, 221);
+    border-radius: 3px;
+    padding: 10px;
+}
+.div-nav-3:hover{
+    color: white;
+    background-color: rgb(83, 143, 221);
+    border-radius: 3px;
+    padding: 10px;
+    padding-bottom: 0px;
+}
+.div-nav-1:hover .text-1{
+    color: white;
+}
+.div-nav-2:hover .text-2{
+    color: white;
+}
+.div-nav-3:hover .text-3{
+    color: white;
+}
+.izuc{
+    margin-left: 50px;
+    margin-bottom: 3px;
+    color: rgb(117, 82, 245);
+    font-size: 20px;
+    font-weight: 2000;
+}
+.text-1{
+    margin-top: 5px;
+    color: rgb(48, 102, 163);
+    font-weight: 1000;
+    margin-left: 5px;
+}
+.text-2{
+    margin-top: 5px;
+    color: rgb(48, 102, 163);
+    font-weight: 1000;
+    margin-left: 5px;
+}
+.text-3{
+    margin-top: 5px;
+    color: rgb(48, 102, 163);
+    font-weight: 1000;
+    margin-left: 5px;
+}
+a{
+    text-decoration: none;
+}
+
+
+@media only screen and (max-width:650px){
+    .izuc{
+        opacity: 0;
+    }
+    .learn{
+        justify-content: center;
+        width: 70%;
+        margin-left: 8%;
+        margin-top: 110px;
+        margin-right: auto;
+        position: absolute;
+        top: 25%;
+    }
+    .div-nav-1{
+        margin: auto;
+        justify-content: center;
+        margin-top: 160px;
+        width: 300px;
+    }
+    .div-nav-2{
+        margin: auto;
+        margin-top: 20px;
+        width: 300px;
+        justify-content: center;
+    }
+    .div-nav-3{
+        margin: auto;
+        margin-top: 20px;
+        width: 300px;
+        justify-content: center;
+    }
+
+}
+@media only screen and (max-width:410px){
+    .div-nav-1{
+        margin: auto;
+        margin-top: 150px;
+    }
+    .div-nav-2{
+        margin: auto;
+        margin-top: 15px;
+    }
+    .div-nav-3{
+        margin: auto;
+        margin-top: 15px;
+    }
+}

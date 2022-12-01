@@ -1,0 +1,41 @@
+.modal-module{
+    z-index: 3;
+    margin:auto;
+    width: 95%;
+    background-color: rgb(255, 255, 255);
+    margin-top: 10px;
+    border-radius: 10px;
+    padding: 10px;
+    display: flex;
+    box-shadow: 0 0 2px 2px rgba(163, 162, 162, 0.418);
+}
+.modal-modul-name{
+    color: rgb(21, 82, 122);
+    font-weight: 900;
+}
+.modal-id-number{
+    color: teal;
+    font-weight: 700;
+}
+.check-input{
+    height: 30px;
+    width: 30px;
+    border: 0;
+    outline: 0;
+    -webkit-appearance: none;
+    appearance: none;
+    background-size: cover;
+    background-image: url(./minus-check.png);
+    margin-right: 10px;
+
+}
+.check-input:checked{
+    background-image: url(./plus-check.png);
+    background-size: cover;
+    border: none;
+}
+@media only screen and (max-width:1200px){
+    .modal-module{
+        width: 90%;
+    }
+}

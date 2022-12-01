@@ -1,0 +1,184 @@
+.main-navigation__menu-btn {
+  width: 3rem;
+  height: 3rem;
+  background: transparent;
+  border: none;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  margin-right: 2rem;
+  cursor: pointer;
+}
+
+.main-navigation__menu-btn span {
+  display: block;
+  width: 3rem;
+  height: 2.5px;
+  background: white;
+}
+.main-navigation__title,
+.main-navigation__header-nav{
+  margin: auto;
+}
+.main-navigation__title {
+  color: #1e6ace;
+}
+
+.main-navigation__title a {
+  text-decoration: none;
+  color: #1e6ace;
+}
+
+.main-navigation__header-nav {
+  display: none;
+}
+
+.main-navigation__drawer-nav {
+  height: 100%;
+}
+
+.search_bar{
+  display: flex;
+}
+
+.search{
+  background-image: url('https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Search_Icon.svg/500px-Search_Icon.svg.png');
+  width: 30px;
+  height: 30px;
+  background-size: cover;
+}
+
+
+
+@media (min-width: 768px) {
+  .main-navigation__menu-btn {
+    display: none;
+  }
+
+  .main-navigation__header-nav {
+    display: block;
+  }
+}
+
+
+.search_bar{
+  width: 30%;
+  float: left;
+  display: flex;
+}
+
+.searchi0{
+  background-image: url('search_icon.png');
+  background-size: cover;
+  height: 30px;
+  width: 30px;
+  cursor: pointer;
+  border-radius: 100%;
+  border: 5px solid #1e6ace;
+  animation-name: close;
+}
+.searchi1{
+  background-image: url('search_icon.png');
+  background-size: cover;
+  height: 30px;
+  width: 30px;
+  cursor: pointer;
+  border-radius: 100%;
+  border-top-left-radius: 0%;
+  border-bottom-left-radius: 0%;
+  border: 3px solid #1e6ace;
+  border-left: none;
+  animation-name: open;
+  animation-duration: 0.4s;
+}
+@keyframes open{
+  0%{
+    border-top-left-radius: 0%;
+    border-bottom-left-radius: 0%;
+    border: 3px solid #1e6ace;
+  }
+  50%{
+    border-top-left-radius: 100%;
+    border-bottom-left-radius: 100%;
+    border: 3px solid #1e6ace;
+
+  }
+}
+.searchi2{
+  background-image: url('search_icon.png');
+  background-size: cover;
+  
+  height: 30px;
+  width: 30px;
+  cursor: pointer;
+  border-radius: 100%;
+  border: 3px solid #1e6ace;
+  animation-name: close;
+  animation-duration: 0.7s;
+}
+@keyframes close{
+  0%{
+
+    border-top-left-radius: 100%;
+    border-bottom-left-radius: 100%;
+    border: 3px solid #1e6ace;
+  }
+  50%{
+    border-top-left-radius: 0%;
+    border-bottom-left-radius: 0%;
+    border: 3px solid #1e6ace;
+  }
+}
+.i0{
+  width: 0px;
+  border: none;
+}
+
+.i1{
+  background: #ffffff;
+  border: 3px solid #1e6ace;
+  border-right: none;
+  width: 95%;
+  animation-duration: 1s;
+  animation-name: go;
+  color: #1e6ace;
+}
+.i2::-webkit-input-placeholder { /* WebKit browsers */
+  color:    rgb(255, 255, 255);
+}
+.i2:-moz-placeholder { /* Mozilla Firefox 4 to 18 */
+  color:    rgb(255, 255, 255);
+}
+.i2::-moz-placeholder { /* Mozilla Firefox 19+ */
+  color:    rgb(255, 255, 255);
+}
+.i2:-ms-input-placeholder { /* Internet Explorer 10+ */
+  color:    rgb(255, 255, 255);
+}
+.i2{
+  
+  animation-name: come;
+  width: 0px;
+  animation-duration: 1s;
+  border: none;
+  border: 2px solid #ffffff;
+  cursor:default;
+}
+
+
+@keyframes go {
+  0%{width: 0px;}
+  50%{width: 100%;}
+}
+@keyframes come {
+  0% {width: 100%;
+    background-color: #d2e6ff;
+    border: 2px solid #1e6ace;
+    border-right: none;
+  }
+  50% {width: 0px;
+    background-color: white;
+    border: 2px solid #ffffff;
+    
+  }
+}

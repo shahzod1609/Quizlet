@@ -1,0 +1,36 @@
+.folder-card-list{
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 20%;
+    margin-right: 20%;
+    width: auto;
+    height: 100%;
+    
+}
+
+.folder-ned{
+    margin-top: 30px;
+    font-SIZE: 25px;
+   margin-left: 22%; 
+   color: #1e6ace;
+}
+@media only screen and (max-width:470px){
+    .folder-card-list{
+        margin-left: 5%;
+        margin-right: 5%;
+        
+    }
+    .folder-card-1{
+        margin-left: 5%;
+        margin-right: 5%;
+    }
+    .flex-for-btn-add{
+        display: block;
+    }
+    .folder-ned{
+        margin-top: 30px;
+        font-SIZE: 25px;
+       margin-left: 10%; 
+       color: #1e6ace;
+    }
+}

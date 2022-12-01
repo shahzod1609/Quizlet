@@ -1,0 +1,33 @@
+.flash-card-div2{
+    display: flex;
+    justify-content: center;
+}
+.brackets-list{
+    margin-top: 200px;
+}
+.eq-word{
+    font-size: 25px;
+    margin-left: 15px;
+    color: #303545;
+}
+.opsisaniya-slow{
+    font-size: 15px;
+}
+.speech-button-at-in-module{
+    background-image: url(../../voice-1.png);
+    width: 35px;
+    height: 35px;
+    background-size: cover;
+    margin-left: -10px;
+}
+.speech-real-bot{
+    opacity: 0;
+    margin-top: -27px;
+}
+@media only screen and (max-width:650px){
+    .eq-word{
+        font-size: 24px;
+    }
+    
+}
+

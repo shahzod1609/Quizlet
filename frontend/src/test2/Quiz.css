@@ -1,0 +1,16 @@
+
+.area-for-everything-of-test-module{
+    margin-left: 30%;
+    margin-right: 30%;
+    width: auto;
+}
+.test1-module-area{
+    margin-top: 10px;
+}
+@media only screen and (max-width: 850px){
+    .area-for-everything-of-test-module{
+        margin-left: 5%;
+        margin-right: 5%;
+        width: auto;
+    }
+}

@@ -1,0 +1,44 @@
+.pagination{
+
+    top: 0;
+    position: absolute;
+    width: 250px;
+    height: 200px;
+   background-color: brown;
+}
+.page-item,
+.a-prev,
+.a-next{
+    position: absolute;
+    
+}
+.a-prev{
+    
+    text-align: center;
+    width: 20%;
+    height: 20%;
+    box-shadow: 0 0 5px 2px rgba(82, 82, 82, 0.479);
+    border: 1px solid black;
+    background-color: white;
+    border-radius: 100%;
+    cursor: pointer;
+    top: 10%;
+    left: 0%;
+}
+.a-next{
+    text-align:inherit;
+    text-align: center;
+    width: 20%;
+    height: 20%;
+    box-shadow: 0 0 5px 2px rgba(0, 0, 0, .3);
+    background-color: white;
+    border-radius: 100%;
+    cursor: pointer;
+    top: 10%;
+    right: 0%;
+}
+.page-item{
+    bottom: 0;
+    left: 45%;
+}
+   

@@ -1,0 +1,38 @@
+.known{
+    border: 2px solid rgba(206, 206, 206, 0.404) ;
+    border-radius: 5px;
+    background-color: white;
+    padding: 5px;
+    cursor: pointer;
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;   
+    -khtml-user-select: none;    
+    -moz-user-select: none;      
+    -ms-user-select: none;       
+    user-select: none;  
+}
+.unknown{
+    border: 2px solid rgba(206, 206, 206, 0.288) ;
+    border-radius: 5px;
+    background-color: white;
+    padding: 5px;
+    cursor: pointer;
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;   
+    -khtml-user-select: none;    
+    -moz-user-select: none;      
+    -ms-user-select: none;       
+    user-select: none;  
+}
+.page-item{
+    margin-top: 10px;
+    margin-left: -25px;
+}
+.pagination-cardsIn{
+    justify-content: space-between;
+    margin: auto;
+    margin-top: 30px;
+    display: flex;
+    width: 60%;
+}
+

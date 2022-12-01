@@ -1,0 +1,88 @@
+.card12 .front,
+.card12 .back{
+    backface-visibility: hidden;
+    position: absolute;
+    padding: 1rem;
+    
+}
+.front{
+    display: flex;
+    
+}
+.image-for-inModule-get-to-the-flashcard{
+    width: auto;
+    max-width: 70px;
+    max-height: 100px;
+    margin: auto;
+    margin-left: 30px;
+}
+.card12{
+    background-color: white;
+    transform-style: preserve-3d;
+    display: flex;
+    justify-content: center;
+    font-size: 30px;
+    border-radius: 10px;
+    border: .25rem;
+    box-shadow: 0 0 5px 2px rgba(0, 0, 0, .3);
+    align-items: center;
+    position: relative;
+    transition: 500ms;
+    cursor: pointer;
+    height: 300px;
+    width: 550px;
+    margin: auto;
+    margin-top: 50px;
+    transform: perspective(2000px) rotateX(var(--rotate-y,0));
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;   
+    -khtml-user-select: none;    
+    -moz-user-select: none;      
+    -ms-user-select: none;       
+    user-select: none;  
+}
+@media only screen and (max-width:950px){
+    .card12{
+        
+        width: 400px;
+        margin: auto;
+        margin-top: 50px;
+    }
+    
+    
+}
+@media only screen and (max-width:650px){
+    .card12{
+        margin: auto;
+        margin-top: 50px;
+        width: 400px;
+        height: 200px;
+    }
+}
+@media only screen and (max-width:450px){
+    .card12{
+       
+        margin: auto;
+        margin-top: 50px;
+        width: 400px;
+        height: 200px;
+    }
+}
+@media only screen and (max-width:420px){
+    .card12{
+        
+        margin: auto;
+        margin-top: 50px;
+        width: 350px;
+        height: 200px;
+    }
+}
+.card12.flip{
+    --rotate-y: 180deg;
+}
+
+
+.card12 .back{
+    transform: rotateX(180deg);
+    
+}

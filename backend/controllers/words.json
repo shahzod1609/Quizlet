@@ -1,0 +1,747 @@
+[
+    [
+        {
+            "term": "data",
+            "definition": "maglumat",
+            "image": "images\\card\\data.png"
+        },
+        {
+            "term": "daughter",
+            "definition": "gyz çaga",
+            "image": "images\\card\\daughter.png"
+        },
+        {
+            "term": "economic",
+            "definition": "ykdysady",
+            "image": "images\\card\\economic.png"
+        },
+        {
+            "term": "economy",
+            "definition": "ykdysadyyet",
+            "image": "images\\card\\economy.png"
+        },
+        {
+            "term": "edition",
+            "definition": "neşir",
+            "image": "images\\card\\edition.png"
+        },
+        {
+            "term": "fine",
+            "definition": "gowy",
+            "image": "images\\card\\fine.png"
+        },
+        {
+            "term": "finger",
+            "definition": "barmak",
+            "image": "images\\card\\finger.png"
+        },
+        {
+            "term": "finish",
+            "definition": "gutarmak",
+            "image": "images\\card\\finish.png"
+        },
+        {
+            "term": "girl",
+            "definition": "gyz",
+            "image": "images\\card\\girl.png"
+        },
+        {
+            "term": "give",
+            "definition": "bermek",
+            "image": "images\\card\\give.png"
+        }
+    ],
+    [
+        {
+            "term": "glass",
+            "definition": "aýna",
+            "image": "images\\card\\glass.png"
+        },
+        {
+            "term": "hot",
+            "definition": "yssy",
+            "image": "images\\card\\hot.png"
+        },
+        {
+            "term": "hotel",
+            "definition": "myhmanhana",
+            "image": "images\\card\\hotel.png"
+        },
+        {
+            "term": "hour",
+            "definition": "sagat",
+            "image": "images\\card\\hour.png"
+        },
+        {
+            "term": "individual",
+            "definition": "şahsy",
+            "image": "images\\card\\individual.png"
+        },
+        {
+            "term": "industry",
+            "definition": "senagat",
+            "image": "images\\card\\industry.png"
+        },
+        {
+            "term": "information",
+            "definition": "maglumat",
+            "image": "images\\card\\information.png"
+        },
+        {
+            "term": "join",
+            "definition": "goşulmak",
+            "image": "images\\card\\join.png"
+        },
+        {
+            "term": "just",
+            "definition": "diňe",
+            "image": "images\\card\\just.png"
+        },
+        {
+            "term": "know",
+            "definition": "bilmek",
+            "image": "images\\card\\know.png"
+        }
+    ],
+    [
+        {
+            "term": "knowledge",
+            "definition": "bilim",
+            "image": "images\\card\\knowledge.png"
+        },
+        {
+            "term": "language",
+            "definition": "dil",
+            "image": "images\\card\\language.png"
+        },
+        {
+            "term": "large",
+            "definition": "uly",
+            "image": "images\\card\\large.png"
+        },
+        {
+            "term": "machine",
+            "definition": "maşyn",
+            "image": "images\\card\\machine.png"
+        },
+        {
+            "term": "magazine",
+            "definition": "žurnal",
+            "image": "images\\card\\magazine.png"
+        },
+        {
+            "term": "newspaper",
+            "definition": "gazet",
+            "image": "images\\card\\newspaper.png"
+        },
+        {
+            "term": "next",
+            "definition": "indiki",
+            "image": "images\\card\\next.png"
+        },
+        {
+            "term": "one",
+            "definition": "bir",
+            "image": "images\\card\\one.png"
+        },
+        {
+            "term": "onion",
+            "definition": "sogan",
+            "image": "images\\card\\onion.png"
+        },
+        {
+            "term": "people",
+            "definition": "adamlar",
+            "image": "images\\card\\people.png"
+        }
+    ],
+    [
+        {
+            "term": "period",
+            "definition": "döwür",
+            "image": "images\\card\\period.png"
+        },
+        {
+            "term": "while",
+            "definition": "wagtynda",
+            "image": "images\\card\\while.png"
+        },
+        {
+            "term": "wind",
+            "definition": "ýel",
+            "image": "images\\card\\wind.png"
+        },
+        {
+            "term": "violence",
+            "definition": "zorluk",
+            "image": "images\\card\\violence.png"
+        },
+        {
+            "term": "everything",
+            "definition": "her zat",
+            "image": "images\\card\\everything.png"
+        },
+        {
+            "term": "example",
+            "definition": "meselem",
+            "image": "images\\card\\example.png"
+        },
+        {
+            "term": "visit",
+            "definition": "baryp görmek",
+            "image": "images\\card\\visit.png"
+        },
+        {
+            "term": "third",
+            "definition": "3-nji",
+            "image": "images\\card\\third.png"
+        },
+        {
+            "term": "this",
+            "definition": "bu",
+            "image": "images\\card\\this.png"
+        },
+        {
+            "term": "use",
+            "definition": "ulanmak",
+            "image": "images\\card\\use.png"
+        }
+    ],
+    [
+        {
+            "term": "usually",
+            "definition": "köplenç",
+            "image": "images\\card\\usually.png"
+        },
+        {
+            "term": "TV",
+            "definition": "telewizor",
+            "image": "images\\card\\TV.png"
+        },
+        {
+            "term": "permanent",
+            "definition": "hemişelik",
+            "image": "images\\card\\permanent.png"
+        },
+        {
+            "term": "two",
+            "definition": "iki",
+            "image": "images\\card\\two.png"
+        },
+        {
+            "term": "summer",
+            "definition": "tomus",
+            "image": "images\\card\\summer.png"
+        },
+        {
+            "term": "sunny",
+            "definition": "güneşli",
+            "image": "images\\card\\sunny.png"
+        },
+        {
+            "term": "room",
+            "definition": "otag",
+            "image": "images\\card\\room.png"
+        },
+        {
+            "term": "rope",
+            "definition": "ýüp",
+            "image": "images\\card\\rope.png"
+        },
+        {
+            "term": "arm",
+            "definition": " gol,el",
+            "image": "images\\card\\arm.png"
+        },
+        {
+            "term": "armchair",
+            "definition": "kreslo",
+            "image": "images\\card\\armchair.png"
+        }
+    ],
+    [
+        {
+            "term": "apple",
+            "definition": "alma",
+            "image": "images\\card\\apple.png"
+        },
+        {
+            "term": "angry",
+            "definition": "gaharly",
+            "image": "images\\card\\angry.png"
+        },
+        {
+            "term": "about",
+            "definition": "barada",
+            "image": "images\\card\\about.png"
+        },
+        {
+            "term": "accept",
+            "definition": "kabul etmek",
+            "image": "images\\card\\accept.png"
+        },
+        {
+            "term": "according",
+            "definition": "laýyklykda",
+            "image": "images\\card\\according.png"
+        },
+        {
+            "term": "back",
+            "definition": " yza",
+            "image": "images\\card\\back.png"
+        },
+        {
+            "term": "bad",
+            "definition": "erbet",
+            "image": "images\\card\\bad.png"
+        },
+        {
+            "term": "badge",
+            "definition": "nyşan",
+            "image": "images\\card\\badge.png"
+        },
+        {
+            "term": "bag",
+            "definition": "sumka",
+            "image": "images\\card\\bag.png"
+        },
+        {
+            "term": "bake",
+            "definition": "bişirmek",
+            "image": "images\\card\\bake.png"
+        },
+        {
+            "term": "call",
+            "definition": " çagyrmak, jaň etmek",
+            "image": "images\\card\\call.png"
+        },
+        {
+            "term": "camera",
+            "definition": "kamera",
+            "image": "images\\card\\camera.png"
+        },
+        {
+            "term": "can",
+            "definition": "başarmak",
+            "image": "images\\card\\can.png"
+        },
+        {
+            "term": "capital",
+            "definition": "paýtagt",
+            "image": "images\\card\\capital.png"
+        },
+        {
+            "term": "car",
+            "definition": "ulag",
+            "image": "images\\card\\car.png"
+        }
+    ],
+    [
+        {
+            "term": "question",
+            "definition": "sorag",
+            "image": "images\\card\\question.png"
+        },
+        {
+            "term": "care",
+            "definition": "alada",
+            "image": "images\\card\\care.png"
+        },
+        {
+            "term": "career",
+            "definition": " kär",
+            "image": "images\\card\\career.png"
+        },
+        {
+            "term": "daily",
+            "definition": "gündelik",
+            "image": "images\\card\\daily.png"
+        },
+        {
+            "term": "danger",
+            "definition": "howp",
+            "image": "images\\card\\danger.png"
+        },
+        {
+            "term": "dark",
+            "definition": "garaňky",
+            "image": "images\\card\\dark.png"
+        },
+        {
+            "term": "quick",
+            "definition": "çalt",
+            "image": "images\\card\\quick.png"
+        },
+        {
+            "term": "protect",
+            "definition": " goramak,goldamak",
+            "image": "images\\card\\protect.png"
+        },
+        {
+            "term": "prove",
+            "definition": "subut etmek",
+            "image": "images\\card\\prove.png"
+        },
+        {
+            "term": "our",
+            "definition": "biziň",
+            "image": "images\\card\\our.png"
+        },
+        {
+            "term": "out",
+            "definition": "daşary",
+            "image": "images\\card\\out.png"
+        },
+        {
+            "term": "note",
+            "definition": "bellik",
+            "image": "images\\card\\note.png"
+        },
+        {
+            "term": "movement",
+            "definition": "hereket",
+            "image": "images\\card\\movement.png"
+        },
+        {
+            "term": "own",
+            "definition": "hususy",
+            "image": "images\\card\\own.png"
+        },
+        {
+            "term": "movie",
+            "definition": "kino",
+            "image": "images\\card\\movie.png"
+        }
+    ],
+    [
+        {
+            "term": "soap",
+            "definition": "sabyn",
+            "image": "images\\card\\soap.png"
+        },
+        {
+            "term": "socks",
+            "definition": "jorap",
+            "image": "images\\card\\socks.png"
+        },
+        {
+            "term": "lock",
+            "definition": "gulp",
+            "image": "images\\card\\lock.png"
+        },
+        {
+            "term": "long",
+            "definition": "uzyn",
+            "image": "images\\card\\long.png"
+        },
+        {
+            "term": "ask",
+            "definition": "soramak",
+            "image": "images\\card\\ask.png"
+        },
+        {
+            "term": "asleep",
+            "definition": "ukuly bolmak",
+            "image": "images\\card\\asleep.png"
+        },
+        {
+            "term": "during",
+            "definition": "dowamynda",
+            "image": "images\\card\\during.png"
+        },
+        {
+            "term": "dust",
+            "definition": "tozan",
+            "image": "images\\card\\dust.png"
+        },
+        {
+            "term": "introduce",
+            "definition": "tanyşdyrmak",
+            "image": "images\\card\\introduce.png"
+        },
+        {
+            "term": "introduction",
+            "definition": "giriş",
+            "image": "images\\card\\introduction.png"
+        },
+        {
+            "term": "horse",
+            "definition": "at",
+            "image": "images\\card\\horse.png"
+        },
+        {
+            "term": "hospital",
+            "definition": "hassahana",
+            "image": "images\\card\\hospital.png"
+        },
+        {
+            "term": "gloves",
+            "definition": "ellik",
+            "image": "images\\card\\gloves.png"
+        },
+        {
+            "term": "glue",
+            "definition": "ýelim",
+            "image": "images\\card\\glue.png"
+        },
+        {
+            "term": "friend",
+            "definition": "dost",
+            "image": "images\\card\\friend.png"
+        }
+    ],
+    [
+        {
+            "term": "six",
+            "definition": "alty",
+            "image": "images\\card\\six.png"
+        },
+        {
+            "term": "size",
+            "definition": "ölçeg",
+            "image": "images\\card\\size.png"
+        },
+        {
+            "term": "talented",
+            "definition": "zehinli",
+            "image": "images\\card\\talented.png"
+        },
+        {
+            "term": "talk",
+            "definition": "gepleşmek",
+            "image": "images\\card\\talk.png"
+        },
+        {
+            "term": "tall",
+            "definition": "uzyn",
+            "image": "images\\card\\tall.png"
+        },
+        {
+            "term": "vaccum cleaner",
+            "definition": "tozan sorujy",
+            "image": "images\\card\\vaccum cleaner.png"
+        },
+        {
+            "term": "value",
+            "definition": "baha",
+            "image": "images\\card\\value.png"
+        },
+        {
+            "term": "vote",
+            "definition": "ses bermek",
+            "image": "images\\card\\vote.png"
+        },
+        {
+            "term": "wait",
+            "definition": "garaşmak",
+            "image": "images\\card\\wait.png"
+        },
+        {
+            "term": "right",
+            "definition": " dogry,sag",
+            "image": "images\\card\\right.png"
+        },
+        {
+            "term": "ring",
+            "definition": "jaň etmek",
+            "image": "images\\card\\ring.png"
+        },
+        {
+            "term": "professor",
+            "definition": "professor",
+            "image": "images\\card\\professor.png"
+        },
+        {
+            "term": "public",
+            "definition": "jemgyýetçilik",
+            "image": "images\\card\\public.png"
+        },
+        {
+            "term": "wall",
+            "definition": "diwar",
+            "image": "images\\card\\wall.png"
+        },
+        {
+            "term": "war",
+            "definition": "uruş",
+            "image": "images\\card\\war.png"
+        },
+        {
+            "term": "ordinal numbers",
+            "definition": "tertip sanlar",
+            "image": "images\\card\\ordinal numbers.png"
+        },
+        {
+            "term": "ordinary",
+            "definition": "adaty",
+            "image": "images\\card\\ordinary.png"
+        },
+        {
+            "term": "organize",
+            "definition": "gurnamak",
+            "image": "images\\card\\organize.png"
+        },
+        {
+            "term": "need",
+            "definition": "gerek",
+            "image": "images\\card\\need.png"
+        },
+        {
+            "term": "network",
+            "definition": "tor",
+            "image": "images\\card\\network.png"
+        },
+        {
+            "term": "male",
+            "definition": "erkek adam",
+            "image": "images\\card\\male.png"
+        },
+        {
+            "term": "man",
+            "definition": "adam",
+            "image": "images\\card\\man.png"
+        },
+        {
+            "term": "including",
+            "definition": "goşmak bilen",
+            "image": "images\\card\\including.png"
+        },
+        {
+            "term": "income",
+            "definition": "girdeji",
+            "image": "images\\card\\income.png"
+        },
+        {
+            "term": "hold",
+            "definition": "saklamak",
+            "image": "images\\card\\hold.png"
+        }
+    ],
+    [
+        {
+            "term": "tonight",
+            "definition": "bu gije",
+            "image": "images\\card\\tonight.png"
+        },
+        {
+            "term": "too",
+            "definition": "hem",
+            "image": "images\\card\\too.png"
+        },
+        {
+            "term": "hole",
+            "definition": "deşik",
+            "image": "images\\card\\hole.png"
+        },
+        {
+            "term": "study",
+            "definition": " okuw,okamak",
+            "image": "images\\card\\study.png"
+        },
+        {
+            "term": "subject",
+            "definition": "ders",
+            "image": "images\\card\\subject.png"
+        },
+        {
+            "term": "finally",
+            "definition": " ahyrynda,ahyry",
+            "image": "images\\card\\finally.png"
+        },
+        {
+            "term": "find",
+            "definition": "tapmak",
+            "image": "images\\card\\find.png"
+        },
+        {
+            "term": "radio",
+            "definition": "radio",
+            "image": "images\\card\\radio.png"
+        },
+        {
+            "term": "empty",
+            "definition": "boş",
+            "image": "images\\card\\empty.png"
+        },
+        {
+            "term": "end",
+            "definition": "soňy",
+            "image": "images\\card\\end.png"
+        },
+        {
+            "term": "degree",
+            "definition": " dereje,gradus",
+            "image": "images\\card\\degree.png"
+        },
+        {
+            "term": "department",
+            "definition": "bölüm",
+            "image": "images\\card\\department.png"
+        },
+        {
+            "term": "restaurant",
+            "definition": "restoran",
+            "image": "images\\card\\restaurant.png"
+        },
+        {
+            "term": "result",
+            "definition": "netije",
+            "image": "images\\card\\result.png"
+        },
+        {
+            "term": "convert",
+            "definition": "öwürmek",
+            "image": "images\\card\\convert.png"
+        },
+        {
+            "term": "cookie",
+            "definition": "köke",
+            "image": "images\\card\\cookie.png"
+        },
+        {
+            "term": "butterfly",
+            "definition": "kebelek",
+            "image": "images\\card\\butterfly.png"
+        },
+        {
+            "term": "button",
+            "definition": "ilik",
+            "image": "images\\card\\button.png"
+        },
+        {
+            "term": "aware",
+            "definition": "habarly",
+            "image": "images\\card\\aware.png"
+        },
+        {
+            "term": "away",
+            "definition": "uzakda",
+            "image": "images\\card\\away.png"
+        },
+        {
+            "term": "whether",
+            "definition": "howa",
+            "image": "images\\card\\whether.png"
+        },
+        {
+            "term": "which",
+            "definition": "haýsy",
+            "image": "images\\card\\which.png"
+        },
+        {
+            "term": "unit",
+            "definition": "birlik",
+            "image": "images\\card\\unit.png"
+        },
+        {
+            "term": "until",
+            "definition": "çenli",
+            "image": "images\\card\\until.png"
+        },
+        {
+            "term": "tomato",
+            "definition": "pomidor",
+            "image": "images\\card\\tomato.png"
+        }
+    ]
+]

@@ -1,0 +1,95 @@
+.mainest{
+    margin: auto;
+    width: 50%;
+}
+.bracket-changer-btn{
+    padding: 25px;
+    text-align: center;
+    font-weight: 700;
+    font-size: 25px;
+    position: absolute;
+    cursor: pointer;
+    border-radius: 5px;
+    height: 80px;
+    width: 50%;
+    margin: auto;
+    margin-bottom: 20px;
+    border: none;
+    background-color: rgb(107, 162, 224);
+    color: white;
+}
+.bracket-changer-btn:hover{
+    background-color: rgb(83, 102, 204);
+}
+.flash-card-div2{
+    margin-top: 100px;
+}
+.avatar-icon{
+    border-radius: 100%;
+    width: 50px;
+    height: 50px;
+    background-color: rgba(0, 0, 255, 0);
+}
+.avtor{
+    color: #939bb4;
+    margin-left: 5px;
+    font-size: 15px;
+}
+.user-name-brackets{
+    color: #303b50;
+    margin-left: 5px;
+    font-size: 20px;
+    font-weight: 500;
+    transition: 400ms;
+}
+
+.user-avatar-in-afterModule{
+    margin-top: 5px;
+}
+.users-div{
+    margin-top: 60px;
+    display: flex;
+    width: 160px; 
+}
+.user-name-brackets:hover{
+    transition: 1ms;
+    color: #ffcd1f;
+}
+
+.div-for-module-btn{
+    height: 200px;
+}
+.h1-name-folder{
+    background-color: white;
+    text-align: center;
+    width: 100%;
+    top:45px;
+    position: absolute;
+    color: rgb(70, 81, 184);
+    border-bottom: 2px solid rgba(233, 232, 232, 0.527);
+}
+.btn-for-module-in-app{
+    width: 100%;
+    height: 60px;
+}
+
+
+@media only screen and (max-width:650px){
+    .users-div{
+        margin-top: 490px;
+    }
+    .bracket-changer-btn{
+       width: 90%;
+       margin: auto;
+       margin-bottom: 30px;
+    }
+   
+}
+@media only screen and (max-width:800px){
+    .mainest{
+        width: 90%;
+       
+    }
+    
+}
+

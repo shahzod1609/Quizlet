@@ -1,0 +1,101 @@
+
+.area-for-everything-of-test-module{
+    margin-left: 30%;
+    margin-right: 30%;
+    width: auto;
+    margin-bottom: 20px;
+}
+.test1-module-area{
+    margin-top: 10px;
+}
+.button-barla-in-quize{
+    margin-top: 10px;
+    margin-bottom: 20px;
+    width: 100%;
+    height: 50px;
+    font-size: 20px;
+    font-weight: 700;
+    color: #1e6ace;
+    background-color: white;
+    border: 1px solid #d7d8d8;
+    border-radius: 5px;
+
+}
+.button-barla-in-quize:hover{
+    color:white;
+    background-color: #1e6ace;
+}
+.text-opisaniya{
+    font-size: 17px;
+    font-weight: 700;
+    color: #939bb4;
+    width: 220px;
+}
+.opisaniya-testow-in-quiz{
+    color: rgba(0, 0, 0, 0.411);
+    margin-top: 10px;
+    width: 100%;
+    display: flex;
+}
+.horizontal-line-in-test-for-opisaniya{
+    border-radius: 100%;
+    margin: 0.7rem;
+    width: 100%;
+    background-color: rgb(226, 225, 225);
+    height: 2px;
+
+}
+.flex-in-barla-test{
+    justify-content: space-between;
+    display: flex;
+    text-align: center;
+    margin-bottom: 20px;
+}
+.button-barla-in-quize-2{
+    padding: 0.5rem;
+    margin-right: 5px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    width: 100%;
+    font-size: 20px;
+    font-weight: 700;
+    color: #1e6ace;
+    background-color: white;
+    border: 1px solid #d7d8d8;
+    border-radius: 5px;
+
+}
+.button-barla-in-quize-2:hover{
+    color:white;
+    background-color: #1e6ace;
+}
+.button-barla-in-quize-3{
+    cursor: pointer;
+    padding: 0.5rem;
+    margin-left: 5px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    width: 100%;
+    font-size: 20px;
+    font-weight: 700;
+    color: #1e6ace;
+    background-color: white;
+    border: 1px solid #d7d8d8;
+    border-radius: 5px;
+
+}
+.button-barla-in-quize-3:hover{
+    color:white;
+    background-color: #1e6ace;
+}
+.button-for-test4{
+    width: 100%;
+    margin-bottom: 20px;
+}
+@media only screen and (max-width: 850px){
+    .area-for-everything-of-test-module{
+        margin-left: 5%;
+        margin-right: 5%;
+        width: auto;
+    }
+}

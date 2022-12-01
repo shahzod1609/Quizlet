@@ -1,0 +1,88 @@
+.div-shahzod{
+    min-width: 300px;
+    width: 30%;
+    display: flex;
+}
+.search-card-12{
+    text-decoration: none;
+    border-radius: 2px;
+    width: 100%;
+    min-height: 130px;
+    background-color: rgb(255, 255, 255);
+    margin: 15px;
+    box-shadow: 1px 1px 7px 3px rgba(184, 184, 184, 0.26);
+}
+.sircle-icon-users-2{
+    border-radius: 100%;
+    width: 20px;
+}
+.search-modul-name{
+    width: max-content;
+    color: #1e6ace;
+    margin-top: 15px;
+    font-size: 18px;
+    font-weight: 1000;
+    margin-left: 10px;
+}
+.search-id-number{
+    font-size: 15px;
+    margin-left: 10px;
+    font-weight: 1000;
+    color: #2f4d74bd;
+}
+.search-username{
+    text-decoration: none;
+    width: min-content;
+    color: #1e6ace;
+    font-weight: 500;
+    margin-top: 15%;
+}
+.search-username-div{
+    width: min-content;
+    margin-left: 15px;
+    margin-top: 25px;
+    margin-bottom: 5px;
+}
+.user-name-word-in-search-bar{
+    color: #1e6ace;
+    font-weight: 600;
+    margin-top: 3px;
+    margin-left: 3px;
+}
+.user-name-word-in-search-bar:hover{
+    transition: 1ms;
+    color: #ffcd1f;
+    font-weight: 600;
+    margin-top: 3px;
+    margin-left: 3px;
+}
+@media only screen and (max-width: 1400px){
+    .search-card-1{
+        width: 40%;
+    }
+}
+@media only screen and (max-width:920px){
+    .search-card-1{
+        width: 90%;
+    }
+}
+.gosmak-icon-search{
+    background-color: rgba(0, 255, 255, 0);
+    cursor: pointer;
+    border: 1px solid #1e6ace;
+    color: #1e6ace;
+    width: 90%;
+    height: 30px;
+    margin: auto;
+    margin-left: 5%;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    
+}
+.gosmak-icon-search:hover{
+    background-color: #1e6ace;
+    border: 1px solid #1e6ace;
+    color: #ffffff;
+   
+    
+}

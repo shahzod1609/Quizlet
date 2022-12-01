@@ -1,0 +1,160 @@
+text{
+    font-weight: bold;
+}
+.index-area-of-area{
+    margin-left: 10px;
+}
+.index-area-of-test-flashcard{
+    padding-top: 5px;
+    height: 30px;
+    color: #0000004f;
+    background-color: white;
+    width: 100%;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    box-shadow: 0px 0px 2px 0px rgba(5, 5, 5, 0.1);    
+}
+.main-area-for-all-mini-testing{
+    color: #303b50;
+    background-color: white;
+    margin-top: 2px;
+    min-height: 130px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+.line-for-area-breaker{
+    margin-left: 3px;
+    margin-right: 3px;
+    width: 1px;
+    border-radius: 100%;
+    background-color: #edeff4;
+    height: 100px;
+}
+.area-for-testing-things{
+    padding-top: 8px;
+    display: flex;
+}
+.horizontal-line{
+    border-radius: 100%;
+    height: 1px;
+    background-color:#edeff4;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-bottom: 10px;
+}
+.first-area-of-testing-or-term{
+    text-align-last: center;
+    align-self: center;
+    width: 50%;
+}
+.group1-test-podbor{
+    text-align-last: center;
+    display: block;
+    position: relative;
+    width: 46%;
+    margin-left: 2%;
+    margin-right: 2%;
+}
+.group2-test-podbor{
+    text-align-last: center;
+    display: block;
+    position: relative;
+    width: 46%;
+    margin-right: 2%;
+    margin-left: 2%;
+}
+.tests-8-fragments{
+    cursor: pointer;
+    margin-bottom: 5px;
+    border-radius: 4px;
+    border: 1px solid #edeff4;
+}
+.first-area-of-testing-or-term{
+    text-align-last: center;
+    align-self: center;
+}
+.second-word-of-testing-or-def{
+    text-align-last: center;
+    align-self: center;
+    width: 50%;
+}
+.test-area-module-things{
+    margin-top: 10px;
+    border: 0.5px rgba(14, 12, 12, 0.137) solid;
+    border-radius: 5px;
+    
+}
+.area-for-answers-1{
+    text-align: center;
+    padding-bottom: 5px;
+    display: flex;
+    width: 96%;
+    justify-content: space-between;
+    margin-left: 2%;
+    margin-right: 2%;
+}
+.div-for-test-podbor{
+    cursor: pointer;
+    border-radius: 5px;
+    border: 1px solid #edeff4;
+    width: 24%;
+}
+.test-abc-random-fix{
+    cursor: pointer;
+    margin-bottom: 5px;
+    border-radius: 5px;
+    border: 1px solid #edeff4;
+}
+.area-for-answers-2{
+    width: 86%;
+    justify-content: space-between;
+    margin-left: 7%;
+    margin-right: 7%;
+    display: flex;
+}
+.div-for-display-block{
+    width: 41%;
+}
+.input-in-test-just-use{
+    width: 70%;
+    height: 30px;
+    margin-left: 15%;
+    border: none;
+    background-color: #f6f7f6;
+    outline: none;
+    border-bottom: 3px solid rgba(79, 79, 80, 0.692);
+    border-radius: 5px;
+}
+.test-tru-false-tut{
+    width: 30%;
+    margin-bottom: 5px;
+    border-radius: 5px;
+    border: 1px solid #edeff4;
+    cursor: pointer;
+}
+.area-for-answers-3{
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    margin-left: 15%;
+    margin-right: 15%;
+    
+}
+.blue_line{
+    border: 1px rgb(146, 146, 248) solid;
+    background-color: rgba(119, 119, 247, 0.288);
+}
+
+.close{
+    background-image: url(./delete-module-1.png);
+    background-size: cover;
+    width: 20px;
+    height: 20px;
+    cursor: pointer;
+    margin-right: 10px;
+    margin-top: 10px;
+}
+/* responsive for test */
+@media only screen and (max-width: 750px){
+    
+}

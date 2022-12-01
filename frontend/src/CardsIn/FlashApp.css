@@ -1,0 +1,68 @@
+.card12-cardsIn .front-cardsIn,
+.card12-cardsIn .back-cardsIn{
+    backface-visibility: hidden;
+    position: absolute;
+    padding: 1rem;
+    
+}
+.front-cardsIn{
+    display: flex;
+    justify-content: space-between;
+}
+.card12-cardsIn{
+    position: relative;
+    background-color: white;
+    transform-style: preserve-3d;
+    display: flex;
+    justify-content: center;
+    
+    font-size: 30px;
+    border-radius: 10px;
+    border: .25rem;
+    box-shadow: 0 0 5px 2px rgba(0, 0, 0, .3);
+    align-items: center;
+    position: relative;
+    transition: 500ms;
+    cursor: pointer;
+    height: 500px;
+    margin: auto;
+    width: 60%;
+    transform: perspective(2000px) rotateX(var(--rotate-y,0));
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;   
+    -khtml-user-select: none;    
+    -moz-user-select: none;      
+    -ms-user-select: none;       
+    user-select: none;  
+}
+
+.card12-cardsIn.flip-cardsIn{
+    --rotate-y: 180deg;
+}
+.card12-cardsIn{
+    height: 350px;
+}
+
+.card12-cardsIn .back-cardsIn{
+    transform: rotateX(180deg);
+    
+}
+.image-for-inModule-get-to-the-cardsIn{
+    margin-left: 50%;
+    width: 200px;
+}
+@media only screen and (max-width:1100px){
+    .card12-cardsIn{
+        width: 90%;
+        margin: auto;
+    }  
+    .image-for-inModule-get-to-the-cardsIn{
+        width: 100px;
+    }
+
+}
+@media only screen and (max-width:400px){
+    .image-for-inModule-get-to-the-cardsIn{
+        width: 50px;
+    }
+}
